@@ -1,0 +1,15 @@
+# Личные конспекты
+Разбор/
+
+# Временные файлы Word / Office
+~$*
+*.tmp
+
+# R / RStudio
+.Rhistory
+.RData
+.Rproj.user/
+
+# Системные
+Thumbs.db
+desktop.ini
